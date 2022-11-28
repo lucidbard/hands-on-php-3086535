@@ -12,7 +12,7 @@
           if( is_int($num) && $num > 0) {
             echo '<h3>Great! You have submitted a positive integer.</h3>';
           } else {
-            echo '<h3>Great! You have submitted a positive integer.</h3>';
+            echo '<h3>ERROR! You did not submit a positive integer.</h3>';
           }
         }
 			?>
